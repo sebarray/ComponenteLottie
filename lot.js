@@ -15,7 +15,7 @@ const Lotie = () => {
   }, []);
 
   return (
-    <div className=" w-50 ">
+    <div className=" w-50 "> // clase de boostrap 5
       <div ref={container}></div>
     </div>
   );
