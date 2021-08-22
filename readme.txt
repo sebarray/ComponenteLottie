@@ -1,0 +1,1 @@
+dependencia npm install lottie-web
